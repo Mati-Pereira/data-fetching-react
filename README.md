@@ -1,5 +1,23 @@
-# Project-1
 
-This project is a use of the website _https://jsonplaceholder.typicode.com/_ to learn how to do data fetching and learn from this
+# Data-fetching - React
 
-## This is a [demo](https://hilarious-pony-ae094b.netlify.app/)
+Estudando um pouco de como o react renderiza conteúdos externos, aprendenco o conceito de promises em javascript.
+## Autores
+
+- [@Mati-Pereira](https://www.github.com/Mati-Pereira)
+
+
+## Demonstração
+
+https://hilarious-pony-ae094b.netlify.app/
+
+## Stack utilizada
+
+- React.js
+- JSONPlaceholder - fake API REST
+
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
